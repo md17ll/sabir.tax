@@ -1,0 +1,6 @@
+fastapi
+python-telegram-bot==21.6
+uvicorn
+asyncpg==0.29.0
+python-multipart
+
